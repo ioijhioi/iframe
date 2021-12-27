@@ -23,3 +23,8 @@ function App() {
 }
 
 export default App;
+
+// useEffect(() => {
+//   document.getElementById('mIframeMobile').scrollIntoView({ behavior: 'smooth' });
+// },[]);
+// ID값으로 스크롤 이동하기
